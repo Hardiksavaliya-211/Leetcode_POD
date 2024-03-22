@@ -32,6 +32,7 @@ public:
             p1 = p1->next;
             // temp=temp->next;
         }
+        
         for (int i = 0; i < b; i++)
         {
             p2 = p2->next;
